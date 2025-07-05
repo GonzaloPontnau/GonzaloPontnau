@@ -2,8 +2,6 @@
 
 <h3 align="center">🚀 Passionate about new technologies and knowledge !</h3>
 
-- 🌱 I'm currently learning **Python with Django** and building web applications
-
 - 📫 How to reach me **gonzalopontnau@gmail.com**
 
 - 💻 [Portfolio](https://gonzalopontnau.github.io/)
