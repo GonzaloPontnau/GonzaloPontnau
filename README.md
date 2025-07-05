@@ -8,8 +8,6 @@
 
 - 💻 [Portfolio](https://gonzalopontnau.github.io/)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo"/> [Linkedin](https://www.linkedin.com/in/gonzalopontnau/)
-
 - 📚 [University Github account](https://github.com/gpontnau)
 
 ## Languages and Tools
